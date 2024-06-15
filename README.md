@@ -1,8 +1,9 @@
-# Tkinter-Calculator-Python-
 
+# Tkinter Calculator (Python)
 
-
-# Simple Python Calculator
+![Calculator Screenshot](calculator_screenshot.png)
+![Calculator Screenshot](calculator_screenshot1.png)
+![Calculator Screenshot](calculator_screensho2.png)
 
 This repository contains a simple calculator application built using the Tkinter library in Python.
 
@@ -18,12 +19,12 @@ This repository contains a simple calculator application built using the Tkinter
 
 1. **Clone the repository:**
    ```bash
-https://github.com/rarifyx/Tkinter-Calculator-Python-.git
+   git clone https://github.com/rarifyx/Tkinter-Calculator-Python-.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd Simple-Python-Calculator
+   cd Tkinter-Calculator-Python-
    ```
 
 3. **Run the application:**
@@ -52,5 +53,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
