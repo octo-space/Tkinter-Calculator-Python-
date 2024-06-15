@@ -18,7 +18,7 @@ This repository contains a simple calculator application built using the Tkinter
 
 1. **Clone the repository:**
    ```bash
-
+https://github.com/rarifyx/Tkinter-Calculator-Python-.git
    ```
 
 2. **Navigate to the project directory:**
