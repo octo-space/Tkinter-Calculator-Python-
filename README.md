@@ -3,7 +3,7 @@
 
 ![Calculator Screenshot](calculator_screenshot.png)
 ![Calculator Screenshot](calculator_screenshot1.png)
-![Calculator Screenshot](calculator_screensho2.png)
+![Calculator Screenshot](calculator_screenshot2.png)
 
 This repository contains a simple calculator application built using the Tkinter library in Python.
 
